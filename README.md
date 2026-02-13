@@ -1,9 +1,1 @@
-## .gitignore
-
-O arquivo `.gitignore` define quais arquivos e pastas não devem ser versionados pelo Git.  
-Neste projeto, são ignorados:
-
-- Ambientes virtuais (`.venv/`)
-- Arquivos de build e empacotamento (`dist/`, `build/`, `.flet/`)
-- Cache do Python (`__pycache__/`)
-- Arquivos do macOS (`.DS_Store`)
+## Aplicação de calculadora desenvolvida em Python utilizando Flet para construção da interface gráfica, com layout inspirado no iOS. Projeto criado para fins de portfólio, aplicando organização em camadas (MVC), versionamento com Git e documentação.
