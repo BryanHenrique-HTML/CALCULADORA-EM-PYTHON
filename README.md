@@ -1,4 +1,4 @@
-## # 🧮 Calculadora em Python com Flet (UI estilo iPhone)
+## Calculadora em Python com Flet (UI estilo iPhone)   
 
 Aplicação de calculadora desenvolvida em Python utilizando o framework Flet, com interface inspirada na calculadora do iPhone (tema escuro/claro, animações e histórico de operações).
 
@@ -34,4 +34,5 @@ python3 CALCULADORA_SIMPLES.py
 
 
 ## Aplicação de calculadora desenvolvida em Python utilizando Flet para construção da interface gráfica, com layout inspirado no iOS. Projeto criado para fins de portfólio, aplicando organização em camadas (MVC), versionamento com Git e documentação.
+
 
